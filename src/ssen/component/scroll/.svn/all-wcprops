@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/19/branches/090129_elle/src/ssen/component/scroll
+END
+ScrollPaneBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/ScrollPaneBase.as
+END
+SliderBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/SliderBase.as
+END
+IScroller.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/IScroller.as
+END
+ScrollTrackBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/ScrollTrackBase.as
+END
+ScrollBarBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/19/branches/090129_elle/src/ssen/component/scroll/ScrollBarBase.as
+END
+ScrollContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/ScrollContainer.as
+END
+SimpleSkinScrollTrack.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/SimpleSkinScrollTrack.as
+END
+ScrollPane.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/ScrollPane.as
+END
+DirectionMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/DirectionMode.as
+END
+TrackMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/TrackMode.as
+END
+IScrollContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/IScrollContainer.as
+END
+ISlider.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/ISlider.as
+END
+ScrollSkinModes.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/ScrollSkinModes.as
+END
+IScrollPane.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/component/scroll/IScrollPane.as
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/core/text
+END
+RollText.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/core/text/RollText.as
+END
+FavoriteRestrict.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/core/text/FavoriteRestrict.as
+END
+SSenTextField.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/core/text/SSenTextField.as
+END
+StringEx.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/core/text/StringEx.as
+END
+ITextObject.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/core/text/ITextObject.as
+END
+TextStyle.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/core/text/TextStyle.as
+END
+TextFieldEx.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/core/text/TextFieldEx.as
+END
+FontRender.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/18/branches/090129_elle/src/ssen/core/text/FontRender.as
+END
